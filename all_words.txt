@@ -803,3 +803,5 @@ RapidKebab's
 Dual's
 DualRotorHelicopter's
 Random
+Fog
+Zombie
