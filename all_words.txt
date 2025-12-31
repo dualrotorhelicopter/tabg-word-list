@@ -813,3 +813,11 @@ spell
 spells
 tool
 tools
+fog
+inaccuracy
+recoil
+earth
+feels
+zombie
+survivor
+semi
